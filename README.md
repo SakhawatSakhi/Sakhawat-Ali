@@ -1,4 +1,4 @@
-![Logo](https://github.com/SakhawatSakhi/SakhawatSakhi/blob/main/mountain1.png)
+![Logo](https://github.com/SakhawatSakhi/Sakhi743/blob/main/mountain1.png)
 <h1 align="center">Hi 👋, I'm Sakhawat Ali</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
 
